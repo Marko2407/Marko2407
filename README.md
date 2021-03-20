@@ -31,4 +31,5 @@ I'm Marko Vukosav. Student at Faculty of Informatics and Organization. 3rd year 
 
 ![Marko2407's github stats](https://github-readme-stats.vercel.app/api?username=Marko2407&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+![Marko2407's github stats](https://github-readme-stats.vercel.app/api?username=Marko2407&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marko2407&layout=compact)
 
