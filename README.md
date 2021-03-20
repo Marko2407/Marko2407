@@ -1,0 +1,34 @@
+## Hi I'm Marko <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Marko Vukosav. Student at Faculty of Informatics and Organization. 3rd year Bachelor's degree. 21 years old interesting in programming ( android apps, Java), workout, etc.
+
+
+:mailbox: Reach me out!
+
+[![Facebook Badge](https://img.shields.io/badge/-@Marko_Vukosav-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/marko.vukosav.9/)](https://web.facebook.com/marko.vukosav.9/)  [![Linkedin Badge](https://img.shields.io/badge/-Marko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-vukosav-15331a115/) [![Mail Badge](https://img.shields.io/badge/-@Marko_Vukosav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/marko_vukosav/?hl=hr) [![Mail Badge](https://img.shields.io/badge/-Marko_Vukosav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marko.vukosav85@gmail.com)
+
+<!-- TODO: Add last video link -->
+
+- 🎓 I’m currently studying at the Faculty of Organization and Informatics
+- 📫 How to reach me: marko.vukosav85@gmail.com.
+- 😄 Pronouns: He/Him.
+- :interrobang: Ask me anything.
+- ⚡ Motivational quote: "Yesterday is gone, tomorrow is just coming, so we only have today, so let's get started!".
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=&logo=java&logoColor=black)](#) 
+ [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-3D8CFD?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=3D8CFD)](#)
+ [![Android Badge](https://img.shields.io/badge/-Android-05C367?style=for-the-badge&labelColor=black&logo=android&logoColor=05C367)](#)
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-008184?style=for-the-badge&labelColor=&logo=Arduino&logoColor=white)](#) 
+
+
+
+
+#### Github Stats
+
+![Marko2407's github stats](https://github-readme-stats.vercel.app/api?username=Marko2407&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
