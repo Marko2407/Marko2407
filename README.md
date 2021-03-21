@@ -10,7 +10,7 @@
 
 :mailbox: Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/-@Marko_Vukosav-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/marko.vukosav.9/)](https://web.facebook.com/marko.vukosav.9/)  [![Linkedin Badge](https://img.shields.io/badge/-Marko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-vukosav-15331a115/) [![Mail Badge](https://img.shields.io/badge/-@Marko_Vukosav-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/marko_vukosav/?hl=hr) [![Mail Badge](https://img.shields.io/badge/-Marko_Vukosav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marko.vukosav85@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://web.facebook.com/marko.vukosav.9/)](https://web.facebook.com/marko.vukosav.9/)  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-vukosav-15331a115/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/marko_vukosav/?hl=hr) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:marko.vukosav85@gmail.com)
 
 <!-- TODO: Add last video link -->
 
