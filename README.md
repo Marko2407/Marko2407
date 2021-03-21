@@ -3,9 +3,10 @@
 
 
 - 🎓 I’m currently studying at the Faculty of Organization and Informatics
+- 🤓 I'm currently learning Java and Kotlin for Android mobile development
 - 📫 How to reach me: marko.vukosav85@gmail.com.
 - 😄 Pronouns: He/Him.
-- :interrobang: Ask me anything.
+- :interrobang: Feel free to ask me anything. 
 - ⚡ Motivational quote: "Yesterday is gone, tomorrow is just coming, so we only have today, so let's get started!".
 
 :mailbox: Reach me out!
