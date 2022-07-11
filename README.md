@@ -1,4 +1,4 @@
-## Hi I'm Marko>
+## Hi I'm Marko <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
 
@@ -21,8 +21,9 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=&logo=java&logoColor=black)](#) 
- [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-3D8CFD?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=3D8CFD)](#)
- [![Android Badge](https://img.shields.io/badge/-Android-05C367?style=for-the-badge&labelColor=black&logo=android&logoColor=05C367)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-3D8CFD?style=for-the-badge&labelColor=black&logo=Kotlin&logoColor=3D8CFD)](#)
+[![Android Badge](https://img.shields.io/badge/-Android-05C367?style=for-the-badge&labelColor=black&logo=android&logoColor=05C367)](#)
+[![Js Badge](https://img.shields.io/badge/-JavaScript-05C367?style=for-the-badge&labelColor=black&logo=javaScript&logoColor=05C367)](#)
 [![Arduino Badge](https://img.shields.io/badge/-Arduino-008184?style=for-the-badge&labelColor=&logo=Arduino&logoColor=white)](#) 
 
 
