@@ -20,10 +20,10 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&labelColor=black&logo=Kotlin)](#)
 [![Android Badge](https://img.shields.io/badge/-Android-05C367?style=for-the-badge&labelColor=black&logo=android&logoColor=05C367)](#)
-[![Js Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javaScript&logoColor=F0DB4F)](#)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&labelColor=black&logo=Kotlin)](#)
 [![Arduino Badge](https://img.shields.io/badge/-Arduino-008184?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)](#) 
+[![Js Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javaScript&logoColor=F0DB4F)](#)
 [![GraphQl Badge](https://img.shields.io/badge/GrapQl-D932A3?style=for-the-badge&labelColor=black&logo=graphQl&logoColor=D932A3)](#) 
 
 
