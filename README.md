@@ -3,7 +3,7 @@
 
 
 - 🎓 I’m currently studying at the Faculty of Organization and Informatics
-- 🤓 I'm currently learning Java and Kotlin for Android mobile development
+- 🤓 I'm currently learning Kotlin for Android mobile development
 - 📫 How to reach me: marko.vukosav85@gmail.com.
 - 😄 Pronouns: He/Him.
 - :interrobang: Feel free to ask me anything. 
