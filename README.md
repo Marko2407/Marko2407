@@ -1,8 +1,6 @@
 ## Hi I'm Marko
 
 
-
-- 🎓 I’m currently studying at the Faculty of Organization and Informatics for master degree
 - 🤓 I'm creating some cool mobile apps and backend stuff
 - 📫 How to reach me: marko.vukosav85@gmail.com.
 - 😄 Pronouns: He/Him.
